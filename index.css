@@ -1,0 +1,16 @@
+body {
+        background-color: red; /* Fallback for browsers that do not support gradients */
+        background-image: linear-gradient(to bottom right, #F5F5F5, #BEBFC5);
+    }
+    
+
+h2 {
+        color: #000000;
+        text-align: justify;
+        padding: 70px;
+       
+}
+.nav-link
+{
+        color: aqua;
+}
